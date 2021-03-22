@@ -14,4 +14,4 @@ Elaine Example, Junior MEEG student, favorite programming language is Excel Macr
 
 Premal Patel, Senior CHEG student, favorite programming language is Python
 
-Alison Glikes, Sophomore CHEG and CISC student, favorite programming language is C
+Alison Glikes, Sophomore CHEG and CISC student, favorite programming language is C 
